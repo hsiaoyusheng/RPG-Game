@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hsiaoyusheng/RPG-Game/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hsiaoyusheng/RPG-Game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>RPG第二主線劇情</h1>
+<h2>一.人物關係圖</h2>
+<p><img src="https://i.imgur.com/FQwi4lm.png" alt="hi" width="946" height="647" /></p>
+<h2><br />二.道具</h2>
+<p><img src="https://i.imgur.com/hXLQuaW.png" alt="hi" width="679" height="564" /></p>
+<p>1:陳述橘DNA<br />1.1:定序機器<br />1.2:陳述橘族譜<br />1.3:定序藥品<br />2:（無）<br />2.1:愛的相對論<br />2.2:小小小兵<br />3:（無）<br />4:處方籤<br />5:（無）<br />5.1:輻射計<br />5.2:朱自清之橘<br />6:（無）<br />6.1:船頭<br />6.2:船尾<br />6.3:船帆<br />6.4:水手<br />7:通行證<br />8:活化通行證<br />8.1:海龍公式之王的一部份<br />9:海龍公式之王<br />10:（問卷）<br />10.1:量尺<br />10.2:原諒信<br />11:信<br />11.1:絨毛玩具<br />12:單身的自豪</p>
+<h2>三.台詞與故事</h2>
+<p>陳述橘：身為陳述橘而不能陳述，真是難過啊！真想在這裡陳述「我在這裡陳述，我是陳述橘」，然而我卻失去了我最寶貴的能力啊！去問遺傳學之父孟德爾為什麼我不能陳述，幫我找回陳述的能力吧！（給他們自己的DNA)</p>
+<p>孟德爾：哦～！我可以幫你們檢查，但我身邊沒有DNA定序索需要的機器以及藥品，我借給高斯﹑達爾文了。去找他們要回來讓我幫你們看是不是有基因缺陷，也許是遺傳性疾病...啊！還少了他的家譜！海龍王擁有世界上所有人的族譜，幫我拿來！</p>
+<p>高斯﹑達爾文﹑海龍王：（分別給藥品﹑機器﹑族譜）</p>
+<p>孟德爾：（檢查一番）原來是得了「單身無法陳述症」！都忘記有這個病了...也許他不是一般人，不對，是橘。我對這個病不了解，也許浪漫大師&mdash;浪漫DUKE會比較了解，你們去找他吧！</p>
+<p>DUKE：這個病和愛因斯坦的「愛の相對論」有關，不過我已經忘記具體內容了，你可能要去找他要...對了，你順便去跟小小兵要一隻小小小兵回來，我要研究他們與香蕉之間的浪漫關係。</p>
+<p>愛因斯坦﹑小小兵：（給愛の相對論﹑小小小兵）</p>
+<p>DUKE：這個病的原因來自公然放閃所造成的後遺症，必須消除他體內殘留的閃光輻射才能醫治。你可以去找放射線大師&mdash;瑪莉居里問。</p>
+<p>瑪莉居里：這種放射線可不是一般的放射線啊，唯一消除它的方法是給陳述橘吃「單身の自豪」。這個藥能使服用者以單身自豪而不再因被放閃而導致創傷，也使被放閃的人內心的創傷癒合。也許旅行商人那裡有，你們去問問看吧！（給處方籤）</p>
+<p>旅行商人：（拿處方籤）很抱歉！我手中的「單身の自豪」被李清照全數包下了！她身為宋代婉約詞大家，自從失去了親愛的老公，便陷入了徹夜難眠﹑寫不出詞的窘境，前幾天又慘遭公然放閃，才來向我買藥。然而，她應該吃1~2顆就會好很多了，所以應該會剩很多，去找她要應該會有。</p>
+<p>李清照：在我給你之前，我要你去跟瑪莉居里要「輻射計」確認體內放射性物質是否已經夠少了...你說你曾經遇到陳述橘？太好了！去找他要「朱自清之橘」給我！身為一個喜好收藏的才女，我一直以來都想要有朱自清之橘呢！</p>
+<p>瑪莉﹑陳述橘：（分別給輻射計﹑朱自清之橘）</p>
+<p>李清照：什麼！我體內放射線殘流量仍高達10000毫西弗/小時！！？萬萬不行。我身邊的「單身の自豪」其實只剛好夠消除體內的閃光，因為其實有一大半都被偷走了。我承認我之前為了炫耀而騙了某些身高矮的人說那是長高丸。你得去找到小偷，不過，誰是小偷呢...啊！搞笑雞有關於誰是小偷的謎語，你去找他就對了！不過，找他要問卷之前，幫我去跟海龍王拿我要送他的禮物&mdash;「海龍公式之王」給他。虎克船長身為海龍王的手下可以給你「海龍王官邸通行證」，去找他吧！記住，雞沒收到禮物不會給你們謎語，而要有謎語，小偷才會交出「單身の自豪」。</p>
+<p>虎克船長：我要坐船回家裡拿...等等，我身邊沒有船啊！我把船頭借給孟德爾﹑船尾借給亨利八世﹑船帆借給小小兵﹑水手借給了牛頓。不要問我為什麼，我也不知道為什麼他們要這些東西...先去跟他們要吧！我再給你通行證。</p>
+<p>孟德爾﹑亨利八世﹑小小兵﹑牛頓：（分別交出船頭﹑船尾﹑船帆﹑水手）</p>
+<p>虎克船長：太好了！通行證拿去給DORA，她會把它活化，拿著活化後的通行證就以見到海龍王了。DORA：給你！（拿出活化後的通行證）</p>
+<p>海龍王：關於海龍公式之王，它還有一部分在大數學家&mdash;阿基米德那裡沒有完成，不過現在應該已經完成了。去把那部份拿回來！</p>
+<p>阿基米德：沒錯，我已經完成了。（把那部份交出）</p>
+<p>海龍王：拿去給搞笑雞吧！（交出海龍公式之王）</p>
+<p>搞笑雞：Wow!!!謝謝你！話說謎語在哪呢，讓我找找...哦，在這裡！拿去吧！<br />（謎語的解答是小小兵）</p>
+<p>小小兵：Haiya被發現了！我以為那是長高丸，便吃到只剩一顆...話說，一定要幫我去跟李清照說對不起！事實上，我要拿到她的原諒信，我才把「單身の自豪」給你。喔對了，順便去跟大物理學家牛頓借量尺，我還是想看看我有沒有長高。李清照：那個笨蛋...話說，我已經沒有輻射殘留了～(交出原諒信）</p>
+<p>牛頓：（交出量尺）</p>
+<p>小小兵：什麼，我非但沒有長高，而且還變矮？？好吧，跟你講一個壞消息：我把「單身の自豪」送給了亨利八世。好吧，我其實是賣給他來賺一點點的錢，拜託不要生氣。把這封信拿給他吧！（拿出一封信）他看了後一定會給你「單身の自豪」的。</p>
+<p>亨利八世：（讀完信）但...那我單身的問題怎麼辦？啊！不然你去跟史迪奇拿他的絨毛玩具，這樣我就不會感到孤單了！然後我一定會給你「單身の自豪」。</p>
+<p>史迪奇：啊囉哈！（給絨毛玩具）</p>
+<p>亨利八世：太棒了！（給「單身の自豪」）<br />陳述橘：（吃下「單身の自豪」）我在這裡陳述...我是陳述橘！</p>
+<p><strong>遊戲結束</strong></p>
